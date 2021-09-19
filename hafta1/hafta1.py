@@ -1,2 +1,2 @@
 print("HELLO WORLD")
-pirint("aaaa")
+print("MERHABA DÜNYA")
